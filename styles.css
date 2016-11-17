@@ -1,5 +1,3 @@
-
-
 body {
 	background-color: lightgray; 
 }
@@ -10,7 +8,11 @@ h4 {
 }
 
 p {
+	font-family: "Open Sans", serif;
+	font-size: 75%;
+}
 
-	
+img {
+	max-width: auto;
 }
 
