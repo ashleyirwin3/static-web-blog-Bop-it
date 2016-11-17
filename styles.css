@@ -5,6 +5,7 @@ body {
 h4 {
 	font-family: "Open Sans", serif;
 	font-size: 150%;
+	text-align: center;
 }
 
 p {
@@ -13,6 +14,9 @@ p {
 }
 
 img {
-	max-width: auto;
+	height: 200px;
+	display: block;
+	margin: auto;
 }
+
 
